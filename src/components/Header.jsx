@@ -12,6 +12,10 @@ import lupa from "../assets/lupa.png";
 import menu from "../assets/menu.png";
 
 export const Header = () => {
+    /* const handleChange = e => {
+        setBusqueda(e.target.value);
+        console.log("Busqueda: " + e.target.value)
+    } */
   return (
     <header className="flex flex-col bg-rojoPrincipal w-full">
         <div id="contacto-redes" className="hidden sm:flex flex-row flex-nowrap bg-gris1 px-16 justify-between">
@@ -63,6 +67,7 @@ export const Header = () => {
                         <input 
                             className="h-9 w-5/6 p-2 rounded-l-md shadow-md" 
                             placeholder="Buscar producto..."/>
+                            {/* value={busqueda} */}
                         <a href="#/buscar" className="size-8 m-auto" >
                             <img className="h-full" src={lupa} alt="Lupa"/>
                         </a>
