@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Arduino Uno",
+      "price": "10.0",
+      "quantity": "100",
+      "description": "Microcontroller"
+    },
+    {
+      "id": 2,
+      "name": "Arduino Nano",
+      "price": "8.0",
+      "quantity": "50",
+      "description": "Microcontroller"
+    },
+    {
+      "id": 3,
+      "name": "Interruptor inteligente",
+      "price": "15.0",
+      "quantity": "30",
+      "description": "WiFi switch"
+    },
+    {
+      "id": 4,
+      "name": "Ultrasonido HC-SR04",
+      "price": "2.5",
+      "quantity": "200",
+      "description": "Distance sensor"
+    },
+    {
+      "id": 5,
+      "name": "Servo MG90S",
+      "price": "5.0",
+      "quantity": "80",
+      "description": "Servo motor"
+    },
+    {
+      "id": 6,
+      "name": "Acelerometro MPU 6050",
+      "price": "3.0",
+      "quantity": "70",
+      "description": "Motion sensor"
+    },
+    {
+      "id": 7,
+      "name": "Sensor PIR",
+      "price": "4.0",
+      "quantity": "60",
+      "description": "Passive infrared sensor"
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth HC-05",
+      "price": "6.0",
+      "quantity": "40",
+      "description": "Bluetooth module"
+    },
+    {
+      "id": 9,
+      "name": "ESP 8266",
+      "price": "7.0",
+      "quantity": "90",
+      "description": "IoT module"
+    },
+    {
+      "id": 10,
+      "name": "Controlador L298N",
+      "price": "9.0",
+      "quantity": "20",
+      "description": "Motor controller"
+    }
+  ]
